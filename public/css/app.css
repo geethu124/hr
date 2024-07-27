@@ -1,0 +1,40 @@
+/* Container styles */
+.container {
+    margin-top: 20px; /* Adjust as needed */
+}
+/* body{
+    background-color: teal;
+} */
+
+/* Card styles */
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Card header styles */
+.card-header-custom {
+    background-color: teal; /* Header background color */
+    color: #fff; /* Header text color */
+    font-size: 20px; /* Header font size */
+    padding: 10px; /* Header padding */
+    border-radius: 5px 5px 0 0; /* Rounded top corners */
+}
+
+/* Card body styles */
+.card-body {
+    padding: 20px; /* Body padding */
+}
+
+/* Alert styles */
+.alert {
+    margin-bottom: 15px; /* Space below alerts */
+}
+
+/* Paragraph styles inside card body */
+.card-body p {
+    font-size: 16px; /* Paragraph font size */
+    line-height: 1.6; /* Paragraph line height */
+    color: #333; /* Paragraph text color */
+}
